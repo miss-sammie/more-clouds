@@ -1,6 +1,7 @@
 # More Clouds
 
-The internet, now with more clouds. This little p5 scene started as the background to Whisper and Hal's website, and our library site, Spines. More Clouds is inspired by d0n.xyz's 'more plants' extension, More Clouds replaces the background of any page with little fluffy clouds floating by.
+_The internet, now with more clouds._ This little p5 scene started as the background to Whisper and Hal's website, and our library site, Spines. More Clouds is inspired by d0n.xyz's 'more plants' extension, More Clouds replaces the background of any page with little fluffy clouds floating by.
+<img width="1207" alt="Screenshot 2025-07-01 145158" src="https://github.com/user-attachments/assets/d7a7d1f3-2990-4d4f-8a06-15c702e2f490" />
 
 ## Installation
 
