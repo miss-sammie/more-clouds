@@ -1,4 +1,4 @@
-##More Clouds
+# More Clouds
 
 The internet, now with more clouds. This little p5 scene started as the background to Whisper and Hal's website. More Clouds is inspired by d0n.xyz's 'more plants' extension, More Clouds replaces the background of any page with little fluffy clouds floating by.
 
